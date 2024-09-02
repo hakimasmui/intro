@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="welcome">
+        <attr name="background_main" format="reference" />
+        <attr name="text_color" format="integer" />
+    </declare-styleable>
+</resources>
